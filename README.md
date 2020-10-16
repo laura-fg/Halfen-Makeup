@@ -3,8 +3,8 @@
  ![Alt text](img/logo.jpeg)  
  <br>
  <h1> Halfen Makeup </h1> 
- ---
-<p align="center">  Sobre  </p> 
+ 
+Sobre
 
 <p> Landing Page criada para demonstração e promoção do serviço da cliente. </p>
 

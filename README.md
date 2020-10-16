@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  ![Alt text](img/logo.jpeg)  
  <br>
@@ -13,3 +14,6 @@
 
 Acesse aqui: 
 [Halfen-Makeup](https://laura-fg.github.io/Halfen-Makeup/)
+=======
+# Halfen-Makeup
+>>>>>>> b2763b7468c74b12a64f9762d1693b50db44d5b1

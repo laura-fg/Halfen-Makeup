@@ -51,17 +51,20 @@ a{
  font-weight: bold;
  margin: 0 10px;
 
+
 }
 
 .menu-nav ul{
 	display: flex;
 	flex-wrap: wrap;
+
 }
 
 .menu-nav a{
 	font-size: 1.25em;
 	display: block;
 	padding: 10px;
+	 text-transform: uppercase;
 }
 
 .menu-nav a:hover{
@@ -372,6 +375,36 @@ border-top:8px solid #66d9eb;
 	.newsletter-form button {
 		font-size: 1.5em;
 	}
+
+     .menu-logo {
+     margin: 0 auto;
+     padding: 15px;
+ 
+     }
+
+
+     .menu-nav{
+     	display: flex;
+     	width: 100%;
+
+     }
+
+    .menu-nav ul{
+    	justify-content: center;
+        align-items: center;
+    }
+
+     .menu-nav ul li a {
+     	border: 2px solid white;
+     	margin: 7px;
+     }
+     .menu-nav ul li a:hover {
+     	border: 2px solid black;
+     	margin: 7px; 
+       	
+     }
+
+
 }
 
 /*FOOTER*/

@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 
  ![Alt text](img/logo.jpeg)  
  <br>
  <h1> Halfen Makeup </h1> 
- ---
-<p align="center">  Sobre  </p> 
+ 
+Sobre
 
 <p> Landing Page criada para demonstração e promoção do serviço da cliente. </p>
 
@@ -15,5 +15,3 @@
 Acesse aqui: 
 [Halfen-Makeup](https://laura-fg.github.io/Halfen-Makeup/)
 =======
-# Halfen-Makeup
->>>>>>> b2763b7468c74b12a64f9762d1693b50db44d5b1
